@@ -15,8 +15,9 @@ npm install
 npm start
 ```
 
-##Note
+## Note
 	this app requires that you have mongodb running on your machine
+	replace the connection  string in the connection line on index.js
 
 ## Testing
 
